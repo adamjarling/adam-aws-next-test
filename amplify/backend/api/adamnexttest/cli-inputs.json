@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "adamnexttest",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/adam/Documents/projects/amplify-playground/adam-next-test/amplify/backend/api/adamnexttest/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
